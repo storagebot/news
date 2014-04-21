@@ -1,0 +1,6 @@
+v2.0.1 - 10/01/13
+* Fix invalid markup of heading tags.
+* Fix slugs not being updateable.
+
+v2.0.0 - 9/30/13
+* Initial Press75 release
